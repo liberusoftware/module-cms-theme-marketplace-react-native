@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-theme-marketplace-react-native",
+  "capabilityKey": "liberusoftware/module-cms-theme-marketplace",
+  "presentation": "mobile-react",
+  "package": "@liberusoftware/module-cms-theme-marketplace-react-native",
+  "foundation": "module-boilerplate-react-native",
+  "foundationCommit": "b63bc1b11fe769e2e547a3f1fced6116556fe9e1",
+  "canonicalPlan": "projects/cms/nextjs/theme-marketplace.md",
+  "presentationPlan": "projects/cms/react-native/theme-marketplace.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
